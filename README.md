@@ -64,9 +64,42 @@ Label Studio Pro eliminates the need for expensive enterprise label design softw
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to the screenshots/ folder -->
+<div align="center">
 
-*Screenshots coming soon*
+<img src="screenshots/Generate.png" alt="Label Generator - Design and preview labels with barcodes, QR codes, and custom elements" width="85%">
+
+*Label Generator — Design professional labels with barcodes, QR codes, and custom elements*
+
+</div>
+
+<details>
+<summary><strong>📷 View More Screenshots</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="screenshots/Dashboard.png" alt="Dashboard - Main workspace with department tabs and template selection" width="85%">
+
+*Dashboard — Main workspace with department tabs and template selection*
+
+<br><br>
+
+<img src="screenshots/Settings.png" alt="Settings - Configure company info, label defaults, and preferences" width="45%">
+<img src="screenshots/Add Department.png" alt="Add Department - Create custom departments with icons and colors" width="45%">
+
+*Settings & Add Department — Configure preferences and create custom departments*
+
+<br><br>
+
+<img src="screenshots/Help Center.png" alt="Help Center - Keyboard shortcuts and usage guides" width="45%">
+<img src="screenshots/About.png" alt="About - Application version and credits" width="45%">
+
+*Help Center & About — Keyboard shortcuts, guides, and application info*
+
+</div>
+
+</details>
 
 ---
 
