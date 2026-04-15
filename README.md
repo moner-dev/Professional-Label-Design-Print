@@ -6,12 +6,12 @@
 
 *Professional Label Design & Barcode Generation Studio*
 
-[![Version](https://img.shields.io/badge/VERSION-v1.0.0-blue?style=for-the-badge)](https://github.com/moneraldabai-ui/label-studio-pro/releases)
-[![Platform](https://img.shields.io/badge/PLATFORM-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/moneraldabai-ui/label-studio-pro)
+[![Version](https://img.shields.io/badge/VERSION-v1.0.0-blue?style=for-the-badge)](https://github.com/moneraldabai-ui/Professional-Label-Design-Print/releases)
+[![Platform](https://img.shields.io/badge/PLATFORM-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/moneraldabai-ui/Professional-Label-Design-Print)
 [![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)](LICENSE)
 [![Built With](https://img.shields.io/badge/BUILT_WITH-React-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/VITE-5-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev)
-[![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)](https://github.com/moneraldabai-ui/label-studio-pro)
+[![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)](https://github.com/moneraldabai-ui/Professional-Label-Design-Print)
 
 </div>
 
@@ -21,9 +21,9 @@
 
 ### Download
 
-[![Download Source](https://img.shields.io/badge/Download_Source-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/moneraldabai-ui/label-studio-pro/archive/refs/heads/main.zip)
+[![Download Source](https://img.shields.io/badge/Download_Source-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/moneraldabai-ui/Professional-Label-Design-Print/archive/refs/heads/main.zip)
 
-![Total Downloads](https://img.shields.io/github/downloads/moneraldabai-ui/label-studio-pro/total?style=flat-square&label=Total%20Downloads)
+![Total Downloads](https://img.shields.io/github/downloads/moneraldabai-ui/Professional-Label-Design-Print/total?style=flat-square&label=Total%20Downloads)
 
 | File | Description |
 |------|-------------|
