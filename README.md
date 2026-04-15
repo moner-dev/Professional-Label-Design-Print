@@ -23,7 +23,6 @@
 
 [![Download Source](https://img.shields.io/badge/Download_Source-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/moneraldabai-ui/Professional-Label-Design-Print/archive/refs/heads/main.zip)
 
-![Total Downloads](https://img.shields.io/github/downloads/moneraldabai-ui/Professional-Label-Design-Print/total?style=flat-square&label=Total%20Downloads)
 
 | File | Description |
 |------|-------------|
