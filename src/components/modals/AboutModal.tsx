@@ -139,7 +139,7 @@ function AboutModal() {
           {/* License */}
           <div className="mt-6 text-center text-sm text-muted">
             <p>BUILT BY </p>
-            <h3 className="font-bold text-dark">M. O. N. E. R</h3>
+            <h3 className="font-bold text-dark">MONER INTELLIGENCE SYSTEMS</h3>
             <p>Application Developer& Ai Specialist</p>  
             <p>Label Studio Pro is designed and developed as a full-featured 
               label printing and QR / Barcode generation studio — built for professionals 
